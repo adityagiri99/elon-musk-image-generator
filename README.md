@@ -18,7 +18,7 @@ This project converts any random image into an Elon Musk-style image using pixel
    pip install pillow numpy
 
 2. Run the program:
-   python main.py
+   python elon.py
 
 ## Output
 A new window will show the generated Elon Musk image.
